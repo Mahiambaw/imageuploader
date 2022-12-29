@@ -1,0 +1,13 @@
+.nav-container {
+  display: flex;
+  justify-content: space-around;
+  background-color: #555;
+  padding: 50px;
+}
+.nav-list {
+  list-style-type: none;
+}
+.nav-link {
+  text-decoration: none;
+  color: #fff;
+}

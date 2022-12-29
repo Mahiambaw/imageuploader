@@ -1,0 +1,20 @@
+.image-container {
+  max-width: 1200px;
+  margin: 100px auto;
+  display: flex;
+  gap: 20px;
+}
+
+.image-box {
+  background-color: rgb(215, 212, 212);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.7);
+  border: 1px solid rgb(227, 227, 227);
+  border-radius: 12px;
+}
+.image-box:hover {
+  transform: scale(2);
+}
+.img {
+  width: 400px;
+  height: 300px;
+}
